@@ -93,7 +93,7 @@ export default function About() {
           </p>
           <motion.div className="pt-10">
             <p className="font-sans">
-              Hello! My name is Qays Kocht
+              Hello! My name is Qays Kocht.
               <br />
               I started my developer journey in 2017 with Python, mostly building tools and
               automatizing tasks.
