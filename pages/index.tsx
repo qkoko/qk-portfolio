@@ -59,7 +59,7 @@ export default function IndexPage(props: IIndexPage) {
                         ? { delay: 3.1, duration: 0.3 }
                         : { delay: 0.1, duration: 0.3 }
                     }
-                    className="text-6xl relative"
+                    className="text-6xl relative text-black"
                     onAnimationStart={() => document.body.classList.add("overflow-hidden")}
                   >
                     <span className="text-blue_dark">H</span>i, my
